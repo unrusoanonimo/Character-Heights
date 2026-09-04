@@ -2,7 +2,7 @@
   "name": "Character Heights",
   "version": "1.0.0",
   "manifest_version": 1,
-  "background_url": "/Character-Heights",
+  "background_url": "/Character-Heights/",
   "icon": "/Character-Heights/wing.png",
   "author": "unrusoanonimo",
   "description": "Forked from Croebh's Character Distances"
