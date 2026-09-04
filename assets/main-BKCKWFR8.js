@@ -1,0 +1,1 @@
+import{O as e,u as t,i as n,g as i,a}from"./style-2d5xDj5J.js";const o=i("menu"),r={every:[{key:"layer",value:"CHARACTER",coordinator:"||"},{key:"layer",value:"MOUNT"}]};function u(){e.contextMenu.create({id:`${o}/context-menu.height`,icons:[{icon:n("wing.svg").href,label:"Set Height",filter:r}],embed:{url:t("height.html").href,height:40}})}e.onReady(async()=>{await a(),u()});
