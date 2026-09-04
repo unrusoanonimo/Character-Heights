@@ -1,1 +1,0 @@
-import{O as e,g as t,i as n}from"./style-BR_DGwp_.js";const i=t("menu"),a={every:[{key:"layer",value:"CHARACTER",coordinator:"||"},{key:"layer",value:"MOUNT"}]};function o(){e.contextMenu.create({id:`${i}/context-menu.height`,icons:[{icon:"/wing.svg",label:"Set Height",filter:a}],embed:{url:"/height.html",height:40}})}e.onReady(async()=>{await n(),o()});

@@ -1,1 +1,0 @@
-import{O as e,u as t,g as n,i}from"./style-BeOAYlAG.js";const a=n("menu"),o={every:[{key:"layer",value:"CHARACTER",coordinator:"||"},{key:"layer",value:"MOUNT"}]};function r(){e.contextMenu.create({id:`${a}/context-menu.height`,icons:[{icon:t("wing.svg").href,label:"Set Height",filter:o}],embed:{url:"/height.html",height:40}})}e.onReady(async()=>{await i(),r()});
